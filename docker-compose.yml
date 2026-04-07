@@ -7,6 +7,7 @@ services:
     container_name: monitoring-prometheus
     volumes:
       - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./prometheus/rules:/etc/prometheus/rules
     command:
       - --config.file=/etc/prometheus/prometheus.yml
     ports:

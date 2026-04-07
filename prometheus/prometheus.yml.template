@@ -19,4 +19,4 @@ alerting:
             - alertmanager:9093
     
 rule_files:
-  - "./rules/greenplum_alerts.yml"
+  - /etc/prometheus/rules/*.yml
