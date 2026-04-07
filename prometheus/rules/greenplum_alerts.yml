@@ -1,0 +1,11 @@
+groups:
+  - name: greenplum-alerts
+    rules:
+      - alert: ExporterDown
+        expr: up == 0
+        for: 3s
+        labels:
+          severity: critical
+        annotations:
+          summary: "Exporter is down"
+          description: "Postgres exporter is not responding"

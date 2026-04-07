@@ -1,0 +1,17 @@
+global:
+  resolve_timeout: 1m
+
+route:
+  receiver: 'email'
+  group_wait: 10s
+  group_interval: 30s
+  repeat_interval: 1h
+
+receivers:
+  - name: 'email'
+    email_configs:
+      - to: ${ALERT_EMAIL_TO}
+        from: ${ALERT_EMAIL_FROM}
+        smarthost: smtp.gmail.com:587
+        auth_username: ${SMTP_USER}
+        auth_password: ${SMTP_PASSWORD}

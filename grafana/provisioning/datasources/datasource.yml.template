@@ -1,0 +1,17 @@
+apiVersion: 1
+
+datasources:
+  - name: Prometheus
+    type: prometheus
+    access: proxy
+    url: http://monitoring-prometheus:9090
+    uid: prometheus
+    isDefault: true
+
+  - name: Greenplum
+    type: postgres
+    access: proxy
+    uid: greenplum
+    url: postgres://${GP_USER}:${GP_PASSWORD}@host.docker.internal:${GP_PORT}/${GP_DATABASE}
+    jsonData:
+      sslmode: disable

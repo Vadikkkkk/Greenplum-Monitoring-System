@@ -1,0 +1,4 @@
+.env
+prometheus/prometheus.yml
+alertmanager/alertmanager.yml
+grafana/provisioning/datasources/datasource.yml
