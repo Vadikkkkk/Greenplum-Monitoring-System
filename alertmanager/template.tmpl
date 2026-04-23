@@ -1,0 +1,48 @@
+{{ define "email.default.html" }}
+<html>
+  <body style="font-family: Arial, sans-serif; background-color:#f4f6f8; padding:20px;">
+
+    <div style="max-width:700px; margin:auto; background:#ffffff; padding:20px; border-radius:10px; border:1px solid #ddd;">
+
+      <h2 style="color:#d9534f; margin-bottom:10px;">
+        Prometheus Alert: {{ .CommonLabels.alertname }}
+      </h2>
+
+      <p style="font-size:14px;">
+        <b>Status:</b> {{ .Status | toUpper }}
+      </p>
+
+      <p style="font-size:14px;">
+        <b>Severity:</b> {{ .CommonLabels.severity }}
+      </p>
+
+      <hr>
+
+      <h3 style="color:#333;">Description</h3>
+      <p>
+        {{ range .Alerts }}{{ .Annotations.description }}{{ end }}
+      </p>
+
+      <h3 style="color:#333;">Summary</h3>
+      <p>
+        {{ range .Alerts }}{{ .Annotations.summary }}{{ end }}
+      </p>
+
+      <hr>
+
+      <h3 style="color:#333;">Time</h3>
+      <p>
+        {{ range .Alerts }}Triggered at: {{ .StartsAt }}{{ end }}
+      </p>
+
+      <hr>
+
+      <p style="font-size:12px; color:gray;">
+        This alert was sent by Prometheus Alertmanager
+      </p>
+
+    </div>
+
+  </body>
+</html>
+{{ end }}

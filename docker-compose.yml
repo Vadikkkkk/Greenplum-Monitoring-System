@@ -21,6 +21,7 @@ services:
     container_name: monitoring-alertmanager
     volumes:
       - ./alertmanager/alertmanager.yml:/etc/alertmanager/alertmanager.yml
+      - ./alertmanager/template.tmpl:/etc/alertmanager/template.tmpl
     command:
       - --config.file=/etc/alertmanager/alertmanager.yml
     ports:

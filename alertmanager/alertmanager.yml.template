@@ -1,6 +1,9 @@
 global:
   resolve_timeout: 1m
 
+templates:
+  - '/etc/alertmanager/template.tmpl'
+
 route:
   receiver: 'email'
   group_wait: 10s
@@ -15,3 +18,8 @@ receivers:
         smarthost: smtp.gmail.com:587
         auth_username: ${SMTP_USER}
         auth_password: ${SMTP_PASSWORD}
+        require_tls: true
+        send_resolved: true
+        html: '{{ template "email.default.html" . }}'
+        headers:
+          subject: "[{{ .Status | toUpper }}] {{ .CommonLabels.alertname }}"
