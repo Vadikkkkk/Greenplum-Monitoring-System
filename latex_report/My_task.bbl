@@ -1,0 +1,225 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global/D9CB741476305F454667E117D9E4F7BA/global/global}
+    \entry{gosstat}{online}{}
+      \field{sortinit}{С}
+      \field{sortinithash}{e581ee5e052c6c8e9beb0cf2da905808}
+      \field{labelprefix}{3.}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Сайт Федеральной службы государственной статистики}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.gks.ru/
+      \endverb
+      \verb{url}
+      \verb http://www.gks.ru/
+      \endverb
+    \endentry
+    \entry{Article}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dd086e74be93272cf08edc6ba7a82653}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{fullhash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{bibnamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authorbibnamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authornamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authorfullhash}{dd086e74be93272cf08edc6ba7a82653}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelprefix}{3.}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The name of the journal}
+      \field{langid}{english}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+    \entry{Book}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c903f1435ec07d8f88559a7b190d066f}{%
+           family={Babington},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{namehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{fullhash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{bibnamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authorbibnamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authornamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authorfullhash}{c903f1435ec07d8f88559a7b190d066f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelprefix}{3.}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{3257227892}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{series}{10}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+    \entry{uci}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelprefix}{3.}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The UC Irvine Machine Learning Repository}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://archive.ics.uci.edu/ml
+      \endverb
+      \verb{url}
+      \verb http://archive.ics.uci.edu/ml
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nty/global//global/global}
+    \entry{gosstat}{online}{}
+      \field{sortinit}{С}
+      \field{sortinithash}{e581ee5e052c6c8e9beb0cf2da905808}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Сайт Федеральной службы государственной статистики}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.gks.ru/
+      \endverb
+      \verb{url}
+      \verb http://www.gks.ru/
+      \endverb
+    \endentry
+    \entry{Article}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dd086e74be93272cf08edc6ba7a82653}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{fullhash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{bibnamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authorbibnamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authornamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authorfullhash}{dd086e74be93272cf08edc6ba7a82653}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The name of the journal}
+      \field{langid}{english}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+    \entry{Book}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c903f1435ec07d8f88559a7b190d066f}{%
+           family={Babington},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{namehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{fullhash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{bibnamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authorbibnamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authornamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authorfullhash}{c903f1435ec07d8f88559a7b190d066f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{3257227892}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{series}{10}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+    \entry{uci}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The UC Irvine Machine Learning Repository}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://archive.ics.uci.edu/ml
+      \endverb
+      \verb{url}
+      \verb http://archive.ics.uci.edu/ml
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

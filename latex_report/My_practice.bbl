@@ -1,0 +1,1141 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{avtonomova:fya}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e62a604e43d2474ab45deab4f9a0163f}{%
+           family={Автономова},
+           familyi={А\bibinitperiod},
+           given={Н.\bibnamedelimi С.},
+           giveni={Н\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Российская политическая энциклопедия (РОССПЭН)}%
+      }
+      \strng{namehash}{e62a604e43d2474ab45deab4f9a0163f}
+      \strng{fullhash}{e62a604e43d2474ab45deab4f9a0163f}
+      \strng{bibnamehash}{e62a604e43d2474ab45deab4f9a0163f}
+      \strng{authorbibnamehash}{e62a604e43d2474ab45deab4f9a0163f}
+      \strng{authornamehash}{e62a604e43d2474ab45deab4f9a0163f}
+      \strng{authorfullhash}{e62a604e43d2474ab45deab4f9a0163f}
+      \field{sortinit}{А}
+      \field{sortinithash}{9db8541854f3671fde760253476fbbdb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-5-8243-1618-6}
+      \field{langid}{russian}
+      \field{pagetotal}{510}
+      \field{series}{Российские Пропилеи}
+      \field{title}{Философский язык Жака Деррида}
+      \field{year}{2011}
+    \endentry
+    \entry{gost-russian-text-documents}{reference}{}
+      \list{location}{1}{%
+        {Минск~: Межгос. совет по стандартизации, метрологии и сертификации}%
+      }
+      \list{specdata}{1}{%
+        {Взамен ГОСТ 2.105–-79, ГОСТ 2.906–-71~; введ. 1996–-07–-01}%
+      }
+      \field{sortinit}{Е}
+      \field{sortinithash}{76907b4c1372b2bad4e358ead0d2e675}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{media}{text}
+      \field{pagetotal}{31}
+      \field{series}{Межгосударственный стандарт}
+      \field{subtitle}{ГОСТ 2.105--95}
+      \field{title}{Единая система конструкторской документации. Общие требования к текстовым документам}
+      \field{year}{2002}
+    \endentry
+    \entry{Kotelnikov2004-ru}{book}{}
+      \name{author}{2}{}{%
+        {{hash=94dd445ebb3dad1893c24ebf7cc2c1bb}{%
+           family={Котельников},
+           familyi={К\bibinitperiod},
+           given={И.\bibnamedelimi А.},
+           giveni={И\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=c34f761d7816710fb3e26b1853e80414}{%
+           family={Чеботаев},
+           familyi={Ч\bibinitperiod},
+           given={П.\bibnamedelimi З.},
+           giveni={П\bibinitperiod\bibinitdelim З\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Новосибирск}%
+      }
+      \list{publisher}{1}{%
+        {Сибирский Хронограф}%
+      }
+      \strng{namehash}{3e74243f4712ce5c3c1c80630d31b22a}
+      \strng{fullhash}{3e74243f4712ce5c3c1c80630d31b22a}
+      \strng{bibnamehash}{3e74243f4712ce5c3c1c80630d31b22a}
+      \strng{authorbibnamehash}{3e74243f4712ce5c3c1c80630d31b22a}
+      \strng{authornamehash}{3e74243f4712ce5c3c1c80630d31b22a}
+      \strng{authorfullhash}{3e74243f4712ce5c3c1c80630d31b22a}
+      \field{sortinit}{К}
+      \field{sortinithash}{007824ff2af181c6f6762379475efd5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{langid}{russian}
+      \field{pagetotal}{496}
+      \field{title}{LaTeX по-русски}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.tex.uniyar.ac.ru/doc/kotelnikovchebotaev2004b.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.tex.uniyar.ac.ru/doc/kotelnikovchebotaev2004b.pdf
+      \endverb
+    \endentry
+    \entry{Peskov2004-ru}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=32225fa7702b2e22e048d160444049e8}{%
+           family={Песков},
+           familyi={П\bibinitperiod},
+           given={Николай\bibnamedelima Владимирович},
+           giveni={Н\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \strng{namehash}{32225fa7702b2e22e048d160444049e8}
+      \strng{fullhash}{32225fa7702b2e22e048d160444049e8}
+      \strng{bibnamehash}{32225fa7702b2e22e048d160444049e8}
+      \strng{authorbibnamehash}{32225fa7702b2e22e048d160444049e8}
+      \strng{authornamehash}{32225fa7702b2e22e048d160444049e8}
+      \strng{authorfullhash}{32225fa7702b2e22e048d160444049e8}
+      \field{sortinit}{П}
+      \field{sortinithash}{b60c3989b0a91e15e157f5b4997c35c7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{pagetotal}{102}
+      \field{science}{канд. физ.-мат. наук}
+      \field{specialitycode}{05.13.17}
+      \field{title}{Поиск информативных фрагментов описаний объектов в задачах распознавания}
+      \field{type}{phdthesis}
+      \field{year}{2004}
+    \endentry
+    \entry{spbpu-student-thesis-specification}{online}{}
+      \field{sortinit}{П}
+      \field{sortinithash}{b60c3989b0a91e15e157f5b4997c35c7}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Положение о порядке проведения государственной итоговой аттестации по образовательным программам высшего образования --- программам бакалавриата, программам специалитета и программам магистратуры (в редакции приказа от 03.05.2018 № 946)}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://dep.spbstu.ru/userfiles/files/prev/docs/for_students/gia_03_05_2018.pdf
+      \endverb
+      \verb{url}
+      \verb https://dep.spbstu.ru/userfiles/files/prev/docs/for_students/gia_03_05_2018.pdf
+      \endverb
+    \endentry
+    \entry{spbpu-student-thesis-template-author-guide}{online}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=854826775910ee027ed0132fd3a4043e}{%
+           family={Пархоменко},
+           familyi={П\bibinitperiod},
+           given={В.\bibnamedelimi A.},
+           giveni={В\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e407bebb50169be5af57f846a255f260}{%
+           family={Загороднюк},
+           familyi={З\bibinitperiod},
+           given={О.\bibnamedelimi В.},
+           giveni={О\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=413f2dedca84f4c4d55e63e6fdc01a6e}{%
+           family={Дробинцев},
+           familyi={Д\bibinitperiod},
+           given={П.\bibnamedelimi Д.},
+           giveni={П\bibinitperiod\bibinitdelim Д\bibinitperiod}}}%
+        {{hash=a3fbbb234b45472041f51aa176516725}{%
+           family={Ицыксон},
+           familyi={И\bibinitperiod},
+           given={В.\bibnamedelimi М.},
+           giveni={В\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+        {{hash=99a161491617e82386ae540f0084cd85}{%
+           family={Щукин},
+           familyi={Щ\bibinitperiod},
+           given={А.\bibnamedelimi В.},
+           giveni={А\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{91d9ab8dbbef99981ebb58ae12cb43bd}
+      \strng{authornamehash}{91d9ab8dbbef99981ebb58ae12cb43bd}
+      \strng{authorfullhash}{4660ee3f74b75538f82ce3aea49e3ebb}
+      \field{sortinit}{Р}
+      \field{sortinithash}{72653a62bb3cb54ced08865870aff9d6}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Руководство студента СПбПУ по~подготовке выпускной квалификационной работы и сопутствующих документов с~помощью LaTeX}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/ParkhomenkoV/SPbPU-student-thesis-template/blob/master/Author_guide_SPbPU-student-thesis.pdf
+      \endverb
+      \verb{url}
+      \verb https://github.com/ParkhomenkoV/SPbPU-student-thesis-template/blob/master/Author_guide_SPbPU-student-thesis.pdf
+      \endverb
+    \endentry
+    \entry{Article}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dd086e74be93272cf08edc6ba7a82653}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{fullhash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{bibnamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authorbibnamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authornamehash}{dd086e74be93272cf08edc6ba7a82653}
+      \strng{authorfullhash}{dd086e74be93272cf08edc6ba7a82653}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The name of the journal}
+      \field{langid}{english}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+    \entry{spbpu-bci-template-author-guide}{online}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=59ab313574d2cd60dff6bcd6eeeb2f4a}{%
+           family={Parkhomenko},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4f43d641574e86b670ca3ee99b62321c}{%
+           family={Piskun},
+           familyi={P\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=e2995d8b953a36adc63c599cf86779a2}{%
+           family={Shvetsov},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=17ed16e82eb07578dea9ca389f7ac7bb}{%
+           family={Schukin},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{08a1fde2ff883938eecc366afbeddf6e}
+      \strng{authornamehash}{08a1fde2ff883938eecc366afbeddf6e}
+      \strng{authorfullhash}{4301116152ff7318ba2b69fe34784eb9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Author and editor guide to prepare and submit the academic SPbPU editions to Clarivate Analytics: Book Citation Index Web of Science}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/ParkhomenkoV/SPbPU-BCI-template/blob/master/Author_guide_SPbPU-BCI.pdf
+      \endverb
+      \verb{url}
+      \verb https://github.com/ParkhomenkoV/SPbPU-BCI-template/blob/master/Author_guide_SPbPU-BCI.pdf
+      \endverb
+    \endentry
+    \entry{Book}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c903f1435ec07d8f88559a7b190d066f}{%
+           family={Babington},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{namehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{fullhash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{bibnamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authorbibnamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authornamehash}{c903f1435ec07d8f88559a7b190d066f}
+      \strng{authorfullhash}{c903f1435ec07d8f88559a7b190d066f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{3257227892}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{series}{10}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+    \entry{badiou:briefings}{book}{}
+      \name{author}{1}{}{%
+        {{hash=af994d05f8c0020c2bbe13f3fd61c420}{%
+           family={Badiou},
+           familyi={B\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=08863aed444ed950bcef462da19678a7}{%
+           family={Madarasz},
+           familyi={M\bibinitperiod},
+           given={Norman},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{introduction}{1}{}{%
+        {{hash=08863aed444ed950bcef462da19678a7}{%
+           family={Madarasz},
+           familyi={M\bibinitperiod},
+           given={Norman},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=08863aed444ed950bcef462da19678a7}{%
+           family={Madarasz},
+           familyi={M\bibinitperiod},
+           given={Norman},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {NY}%
+      }
+      \list{origlanguage}{1}{%
+        {french}%
+      }
+      \list{publisher}{1}{%
+        {SUNY Press}%
+      }
+      \strng{namehash}{af994d05f8c0020c2bbe13f3fd61c420}
+      \strng{fullhash}{af994d05f8c0020c2bbe13f3fd61c420}
+      \strng{bibnamehash}{af994d05f8c0020c2bbe13f3fd61c420}
+      \strng{authorbibnamehash}{af994d05f8c0020c2bbe13f3fd61c420}
+      \strng{authornamehash}{af994d05f8c0020c2bbe13f3fd61c420}
+      \strng{authorfullhash}{af994d05f8c0020c2bbe13f3fd61c420}
+      \strng{editorbibnamehash}{08863aed444ed950bcef462da19678a7}
+      \strng{editornamehash}{08863aed444ed950bcef462da19678a7}
+      \strng{editorfullhash}{08863aed444ed950bcef462da19678a7}
+      \strng{introductionbibnamehash}{08863aed444ed950bcef462da19678a7}
+      \strng{introductionnamehash}{08863aed444ed950bcef462da19678a7}
+      \strng{introductionfullhash}{08863aed444ed950bcef462da19678a7}
+      \strng{translatorbibnamehash}{08863aed444ed950bcef462da19678a7}
+      \strng{translatornamehash}{08863aed444ed950bcef462da19678a7}
+      \strng{translatorfullhash}{08863aed444ed950bcef462da19678a7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-7914-6803-6}
+      \field{langid}{english}
+      \field{pagetotal}{190}
+      \field{subtitle}{A Short Treatise on Transitory Ontology}
+      \field{title}{Briefings on Existence}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://books.google.ru/books?id=7HNkAT\_NFksC
+      \endverb
+      \verb{url}
+      \verb https://books.google.ru/books?id=7HNkAT%5C_NFksC
+      \endverb
+    \endentry
+    \entry{Booklet}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=5db854700cfbfbf21bd9302a8a128bc4}{%
+           family={Caxton},
+           familyi={C\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \strng{namehash}{5db854700cfbfbf21bd9302a8a128bc4}
+      \strng{fullhash}{5db854700cfbfbf21bd9302a8a128bc4}
+      \strng{bibnamehash}{5db854700cfbfbf21bd9302a8a128bc4}
+      \strng{authorbibnamehash}{5db854700cfbfbf21bd9302a8a128bc4}
+      \strng{authornamehash}{5db854700cfbfbf21bd9302a8a128bc4}
+      \strng{authorfullhash}{5db854700cfbfbf21bd9302a8a128bc4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+    \endentry
+    \entry{ctan-biblatex-gost}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4929ce3490358595f337247274812990}{%
+           family={Domanov},
+           familyi={D\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{4929ce3490358595f337247274812990}
+      \strng{fullhash}{4929ce3490358595f337247274812990}
+      \strng{bibnamehash}{4929ce3490358595f337247274812990}
+      \strng{authorbibnamehash}{4929ce3490358595f337247274812990}
+      \strng{authornamehash}{4929ce3490358595f337247274812990}
+      \strng{authorfullhash}{4929ce3490358595f337247274812990}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{BibLATEX support for GOST standard bibliographies}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ctan.org/pkg/biblatex-gost
+      \endverb
+      \verb{url}
+      \verb https://ctan.org/pkg/biblatex-gost
+      \endverb
+    \endentry
+    \entry{ctan-biblatex-gost-examples}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4929ce3490358595f337247274812990}{%
+           family={Domanov},
+           familyi={D\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{4929ce3490358595f337247274812990}
+      \strng{fullhash}{4929ce3490358595f337247274812990}
+      \strng{bibnamehash}{4929ce3490358595f337247274812990}
+      \strng{authorbibnamehash}{4929ce3490358595f337247274812990}
+      \strng{authornamehash}{4929ce3490358595f337247274812990}
+      \strng{authorfullhash}{4929ce3490358595f337247274812990}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Biblatex-GOST examples}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://ctan.altspu.ru/macros/latex/contrib/biblatex-contrib/biblatex-gost/doc/biblatex-gost-examples.pdf
+      \endverb
+      \verb{url}
+      \verb http://ctan.altspu.ru/macros/latex/contrib/biblatex-contrib/biblatex-gost/doc/biblatex-gost-examples.pdf
+      \endverb
+    \endentry
+    \entry{Conference}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be0619a2ce36e910a659c155965280f1}{%
+           family={Draper},
+           familyi={D\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=30887b93fb89eba22f6ed9b4ed9f8fa0}{%
+           family={editor},
+           familyi={e\bibinitperiod},
+           given={The},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{organization}{1}{%
+        {The organization}%
+      }
+      \list{publisher}{1}{%
+        {The publisher}%
+      }
+      \strng{namehash}{be0619a2ce36e910a659c155965280f1}
+      \strng{fullhash}{be0619a2ce36e910a659c155965280f1}
+      \strng{bibnamehash}{be0619a2ce36e910a659c155965280f1}
+      \strng{authorbibnamehash}{be0619a2ce36e910a659c155965280f1}
+      \strng{authornamehash}{be0619a2ce36e910a659c155965280f1}
+      \strng{authorfullhash}{be0619a2ce36e910a659c155965280f1}
+      \strng{editorbibnamehash}{30887b93fb89eba22f6ed9b4ed9f8fa0}
+      \strng{editornamehash}{30887b93fb89eba22f6ed9b4ed9f8fa0}
+      \strng{editorfullhash}{30887b93fb89eba22f6ed9b4ed9f8fa0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The title of the book}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{series}{5}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+    \entry{Inbook}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=de1e95b2c0f3bb0e4d8610d36401fecd}{%
+           family={Eston},
+           familyi={E\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{namehash}{de1e95b2c0f3bb0e4d8610d36401fecd}
+      \strng{fullhash}{de1e95b2c0f3bb0e4d8610d36401fecd}
+      \strng{bibnamehash}{de1e95b2c0f3bb0e4d8610d36401fecd}
+      \strng{authorbibnamehash}{de1e95b2c0f3bb0e4d8610d36401fecd}
+      \strng{authornamehash}{de1e95b2c0f3bb0e4d8610d36401fecd}
+      \strng{authorfullhash}{de1e95b2c0f3bb0e4d8610d36401fecd}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Book title}
+      \field{chapter}{8}
+      \field{edition}{3}
+      \field{langid}{english}
+      \field{series}{5}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+    \entry{Incollection}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=f0d590104139f103ade7f0e381c16374}{%
+           family={Farindon},
+           familyi={F\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=30887b93fb89eba22f6ed9b4ed9f8fa0}{%
+           family={editor},
+           familyi={e\bibinitperiod},
+           given={The},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{namehash}{f0d590104139f103ade7f0e381c16374}
+      \strng{fullhash}{f0d590104139f103ade7f0e381c16374}
+      \strng{bibnamehash}{f0d590104139f103ade7f0e381c16374}
+      \strng{authorbibnamehash}{f0d590104139f103ade7f0e381c16374}
+      \strng{authornamehash}{f0d590104139f103ade7f0e381c16374}
+      \strng{authorfullhash}{f0d590104139f103ade7f0e381c16374}
+      \strng{editorbibnamehash}{30887b93fb89eba22f6ed9b4ed9f8fa0}
+      \strng{editornamehash}{30887b93fb89eba22f6ed9b4ed9f8fa0}
+      \strng{editorfullhash}{30887b93fb89eba22f6ed9b4ed9f8fa0}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The title of the book}
+      \field{chapter}{8}
+      \field{edition}{3}
+      \field{langid}{english}
+      \field{series}{5}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{pages}{201\bibrangedash 213}
+      \range{pages}{13}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+    \entry{ctan-tikz}{online}{}
+      \name{author}{2}{}{%
+        {{hash=82542deecf57ccb01de5c56e46c954b1}{%
+           family={Feuersanger},
+           familyi={F\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=129e88d9b4e0ba07ca911d6e9aebfaca}{%
+           family={Tantau},
+           familyi={T\bibinitperiod},
+           given={Till},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e7a13c3e9e20c3cffd7ff43b06350a7}
+      \strng{fullhash}{7e7a13c3e9e20c3cffd7ff43b06350a7}
+      \strng{bibnamehash}{7e7a13c3e9e20c3cffd7ff43b06350a7}
+      \strng{authorbibnamehash}{7e7a13c3e9e20c3cffd7ff43b06350a7}
+      \strng{authornamehash}{7e7a13c3e9e20c3cffd7ff43b06350a7}
+      \strng{authorfullhash}{7e7a13c3e9e20c3cffd7ff43b06350a7}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The TikZ and PGF packages}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ctan.org/pkg/pgf
+      \endverb
+      \verb{url}
+      \verb https://ctan.org/pkg/pgf
+      \endverb
+    \endentry
+    \entry{ctan-algorithm2e}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a5315ac91af386d0755259b7c836682f}{%
+           family={Fiorio},
+           familyi={F\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5315ac91af386d0755259b7c836682f}
+      \strng{fullhash}{a5315ac91af386d0755259b7c836682f}
+      \strng{bibnamehash}{a5315ac91af386d0755259b7c836682f}
+      \strng{authorbibnamehash}{a5315ac91af386d0755259b7c836682f}
+      \strng{authornamehash}{a5315ac91af386d0755259b7c836682f}
+      \strng{authorfullhash}{a5315ac91af386d0755259b7c836682f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The algorithm2e package}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ctan.org/pkg/algorithm2e
+      \endverb
+      \verb{url}
+      \verb https://ctan.org/pkg/algorithm2e
+      \endverb
+    \endentry
+    \entry{Manual}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=e9b5e182bfaf4cee0f27ef67d2ce9817}{%
+           family={Gainsford},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{organization}{1}{%
+        {The organization}%
+      }
+      \strng{namehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{fullhash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{bibnamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{authorbibnamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{authornamehash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \strng{authorfullhash}{e9b5e182bfaf4cee0f27ef67d2ce9817}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+    \endentry
+    \entry{Ganter1999}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9688ac128813bcfd4a8dd751f152f001}{%
+           family={Ganter},
+           familyi={G\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7f5db0fbc6d0902a6718043afca1d65b}{%
+           family={Wille},
+           familyi={W\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Berlin}%
+      }
+      \strng{namehash}{f3215074e64216e381ddd1acda90b392}
+      \strng{fullhash}{f3215074e64216e381ddd1acda90b392}
+      \strng{bibnamehash}{f3215074e64216e381ddd1acda90b392}
+      \strng{authorbibnamehash}{f3215074e64216e381ddd1acda90b392}
+      \strng{authornamehash}{f3215074e64216e381ddd1acda90b392}
+      \strng{authorfullhash}{f3215074e64216e381ddd1acda90b392}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{284}
+      \field{title}{Formal concept analysis: mathematical foundations}
+      \field{year}{1999}
+    \endentry
+    \entry{Mastersthesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=cdc7717c68b6161cee2995950006a077}{%
+           family={Harwood},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The school where the thesis was written}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \strng{namehash}{cdc7717c68b6161cee2995950006a077}
+      \strng{fullhash}{cdc7717c68b6161cee2995950006a077}
+      \strng{bibnamehash}{cdc7717c68b6161cee2995950006a077}
+      \strng{authorbibnamehash}{cdc7717c68b6161cee2995950006a077}
+      \strng{authornamehash}{cdc7717c68b6161cee2995950006a077}
+      \strng{authorfullhash}{cdc7717c68b6161cee2995950006a077}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{title}{The title of the work}
+      \field{type}{mathesis}
+      \field{year}{1993}
+    \endentry
+    \entry{Misc}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0df71d4c388c98e86ca575893d2dc84b}{%
+           family={Isley},
+           familyi={I\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0df71d4c388c98e86ca575893d2dc84b}
+      \strng{fullhash}{0df71d4c388c98e86ca575893d2dc84b}
+      \strng{bibnamehash}{0df71d4c388c98e86ca575893d2dc84b}
+      \strng{authorbibnamehash}{0df71d4c388c98e86ca575893d2dc84b}
+      \strng{authornamehash}{0df71d4c388c98e86ca575893d2dc84b}
+      \strng{authorfullhash}{0df71d4c388c98e86ca575893d2dc84b}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+    \endentry
+    \entry{Phdthesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=da64d86449dd718132faabded1403d9a}{%
+           family={Joslin},
+           familyi={J\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The school where the thesis was written}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \strng{namehash}{da64d86449dd718132faabded1403d9a}
+      \strng{fullhash}{da64d86449dd718132faabded1403d9a}
+      \strng{bibnamehash}{da64d86449dd718132faabded1403d9a}
+      \strng{authorbibnamehash}{da64d86449dd718132faabded1403d9a}
+      \strng{authornamehash}{da64d86449dd718132faabded1403d9a}
+      \strng{authorfullhash}{da64d86449dd718132faabded1403d9a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{science}{PhD in Engineering}
+      \field{title}{The title of the work}
+      \field{type}{phdthesis}
+      \field{year}{1993}
+    \endentry
+    \entry{Kotelnikov2004}{book}{}
+      \name{author}{2}{}{%
+        {{hash=88422dde5d4e50f2472f7f55f0265c29}{%
+           family={Kotelnikov},
+           familyi={K\bibinitperiod},
+           given={I.\bibnamedelimi A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=88349970e4eee59a998beebbddd55bd3}{%
+           family={Chebotaev},
+           familyi={C\bibinitperiod},
+           given={P.\bibnamedelimi Z.},
+           giveni={P\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Novosibirsk}%
+      }
+      \list{publisher}{1}{%
+        {Sibiskiy Hronograph}%
+      }
+      \strng{namehash}{d7d6f7f8cb963e461ca391f29d0d21c4}
+      \strng{fullhash}{d7d6f7f8cb963e461ca391f29d0d21c4}
+      \strng{bibnamehash}{d7d6f7f8cb963e461ca391f29d0d21c4}
+      \strng{authorbibnamehash}{d7d6f7f8cb963e461ca391f29d0d21c4}
+      \strng{authornamehash}{d7d6f7f8cb963e461ca391f29d0d21c4}
+      \strng{authorfullhash}{d7d6f7f8cb963e461ca391f29d0d21c4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{langid}{english}
+      \field{note}{in Russian}
+      \field{pagetotal}{496}
+      \field{title}{LaTeX in Russian}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.tex.uniyar.ac.ru/doc/kotelnikovchebotaev2004b.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.tex.uniyar.ac.ru/doc/kotelnikovchebotaev2004b.pdf
+      \endverb
+    \endentry
+    \entry{Techreport}{report}{}
+      \name{author}{1}{}{%
+        {{hash=a1903e7feca009723d9d4539e706ace0}{%
+           family={Lambert},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The institution that published}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \strng{namehash}{a1903e7feca009723d9d4539e706ace0}
+      \strng{fullhash}{a1903e7feca009723d9d4539e706ace0}
+      \strng{bibnamehash}{a1903e7feca009723d9d4539e706ace0}
+      \strng{authorbibnamehash}{a1903e7feca009723d9d4539e706ace0}
+      \strng{authornamehash}{a1903e7feca009723d9d4539e706ace0}
+      \strng{authorfullhash}{a1903e7feca009723d9d4539e706ace0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{title}{The title of the work}
+      \field{type}{techreport}
+      \field{year}{1993}
+      \field{number}{2}
+      \range{number}{1}
+    \endentry
+    \entry{Unpublished}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=eb89ebe5a95ee2ea9968469e5553fdfc}{%
+           family={Marcheford},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb89ebe5a95ee2ea9968469e5553fdfc}
+      \strng{fullhash}{eb89ebe5a95ee2ea9968469e5553fdfc}
+      \strng{bibnamehash}{eb89ebe5a95ee2ea9968469e5553fdfc}
+      \strng{authorbibnamehash}{eb89ebe5a95ee2ea9968469e5553fdfc}
+      \strng{authornamehash}{eb89ebe5a95ee2ea9968469e5553fdfc}
+      \strng{authorfullhash}{eb89ebe5a95ee2ea9968469e5553fdfc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+    \endentry
+    \entry{latex-miktex}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{MiKTeX web site}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://miktex.org/
+      \endverb
+      \verb{url}
+      \verb https://miktex.org/
+      \endverb
+    \endentry
+    \entry{Naidenova2017}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=5b6db0d8dea58a20cb4f20909b81ee9a}{%
+           family={Naidenova},
+           familyi={N\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=b7716d533165842c5b252875617f2609}{%
+           family={Buzmakov},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=59ab313574d2cd60dff6bcd6eeeb2f4a}{%
+           family={Parkhomenko},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=17ed16e82eb07578dea9ca389f7ac7bb}{%
+           family={Schukin},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c33248dac143dd621578d13f57f333bb}{%
+           family={Watson\bibnamedelima B.W.},
+           familyi={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Kuznetsov\bibnamedelima S.O.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CEUR-WS}%
+      }
+      \strng{authorbibnamehash}{65269514a5393299825c31e6f49c499d}
+      \strng{authornamehash}{65269514a5393299825c31e6f49c499d}
+      \strng{authorfullhash}{f8977c007a66e6c2488e4ce76fd9cf47}
+      \strng{editorbibnamehash}{c33248dac143dd621578d13f57f333bb}
+      \strng{editornamehash}{c33248dac143dd621578d13f57f333bb}
+      \strng{editorfullhash}{c33248dac143dd621578d13f57f333bb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CEUR Workshop Proceedings}
+      \field{langid}{english}
+      \field{title}{Notes on relation between symbolic classifiers}
+      \field{urlday}{19}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{88\bibrangedash 103}
+      \range{pages}{16}
+      \field{volume}{1921}
+      \range{volume}{1}
+      \verb{urlraw}
+      \verb http://ceur-ws.org/Vol-1921/paper9.pdf
+      \endverb
+      \verb{url}
+      \verb http://ceur-ws.org/Vol-1921/paper9.pdf
+      \endverb
+    \endentry
+    \entry{Peskov2004}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=e29402a858b21884e846ec80663d08c6}{%
+           family={Peskov},
+           familyi={P\bibinitperiod},
+           given={Nickolay\bibnamedelima Vladimirovich},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {M.}%
+      }
+      \strng{namehash}{e29402a858b21884e846ec80663d08c6}
+      \strng{fullhash}{e29402a858b21884e846ec80663d08c6}
+      \strng{bibnamehash}{e29402a858b21884e846ec80663d08c6}
+      \strng{authorbibnamehash}{e29402a858b21884e846ec80663d08c6}
+      \strng{authornamehash}{e29402a858b21884e846ec80663d08c6}
+      \strng{authorfullhash}{e29402a858b21884e846ec80663d08c6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{in Russian}
+      \field{pagetotal}{102}
+      \field{science}{cand. phys.-math. sci.}
+      \field{specialitycode}{05.13.17}
+      \field{title}{Searching for informative fragments of object descriptions in the recognition tasks}
+      \field{type}{phdthesis}
+      \field{year}{2004}
+    \endentry
+    \entry{spbpu-gallery}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{SPbPU photo gallery}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.spbstu.ru/media/photo-gallery/
+      \endverb
+      \verb{url}
+      \verb http://www.spbstu.ru/media/photo-gallery/
+      \endverb
+    \endentry
+    \entry{spbpu-student-thesis-template}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{SPbPU-student-thesis-template}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/ParkhomenkoV/SPbPU-student-thesis-template
+      \endverb
+      \verb{url}
+      \verb https://github.com/ParkhomenkoV/SPbPU-student-thesis-template
+      \endverb
+    \endentry
+    \entry{latex-texlive}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{TeX Live web site}
+      \field{urlday}{30}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tug.org/texlive/
+      \endverb
+      \verb{url}
+      \verb https://www.tug.org/texlive/
+      \endverb
+    \endentry
+    \entry{latex-texstudio}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{TeXstudio web site}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.texstudio.org/
+      \endverb
+      \verb{url}
+      \verb https://www.texstudio.org/
+      \endverb
+    \endentry
+    \entry{Proceedings}{proceedings}{}
+      \name{editor}{1}{}{%
+        {{hash=18c29b9ace78576f9bb6ac4e067d4232}{%
+           family={Kidwelly},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The address of the publisher}%
+      }
+      \list{organization}{1}{%
+        {The organization}%
+      }
+      \list{publisher}{1}{%
+        {The name of the publisher}%
+      }
+      \strng{editorbibnamehash}{18c29b9ace78576f9bb6ac4e067d4232}
+      \strng{editornamehash}{18c29b9ace78576f9bb6ac4e067d4232}
+      \strng{editorfullhash}{18c29b9ace78576f9bb6ac4e067d4232}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{255}
+      \field{series}{5}
+      \field{title}{The title of the work}
+      \field{year}{1993}
+      \field{volume}{4}
+      \range{volume}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

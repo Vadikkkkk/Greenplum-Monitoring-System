@@ -1,0 +1,161 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{exporter}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Postgres Exporter}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/prometheus-community/postgres_exporter
+      \endverb
+      \verb{url}
+      \verb https://github.com/prometheus-community/postgres_exporter
+      \endverb
+    \endentry
+    \entry{alertmanager}{online}{}
+      \field{sortinit}{Д}
+      \field{sortinithash}{1acf1490327dfefb00e074ab043a2e03}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Документация Alertmanager}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://prometheus.io/docs/alerting/latest/alertmanager/
+      \endverb
+      \verb{url}
+      \verb https://prometheus.io/docs/alerting/latest/alertmanager/
+      \endverb
+    \endentry
+    \entry{grafana}{online}{}
+      \field{sortinit}{Д}
+      \field{sortinithash}{1acf1490327dfefb00e074ab043a2e03}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Документация Grafana}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://grafana.com/docs/
+      \endverb
+      \verb{url}
+      \verb https://grafana.com/docs/
+      \endverb
+    \endentry
+    \entry{gpdocs}{online}{}
+      \field{sortinit}{Д}
+      \field{sortinithash}{1acf1490327dfefb00e074ab043a2e03}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Документация Greenplum}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum/7/greenplum-database/landing-index.html
+      \endverb
+      \verb{url}
+      \verb https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum/7/greenplum-database/landing-index.html
+      \endverb
+    \endentry
+    \entry{nodeexporter}{online}{}
+      \field{sortinit}{Д}
+      \field{sortinithash}{1acf1490327dfefb00e074ab043a2e03}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Документация Node Exporter}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/prometheus/node_exporter
+      \endverb
+      \verb{url}
+      \verb https://github.com/prometheus/node_exporter
+      \endverb
+    \endentry
+    \entry{prom}{online}{}
+      \field{sortinit}{Д}
+      \field{sortinithash}{1acf1490327dfefb00e074ab043a2e03}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Документация Prometheus}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://prometheus.io/docs/introduction/overview/
+      \endverb
+      \verb{url}
+      \verb https://prometheus.io/docs/introduction/overview/
+      \endverb
+    \endentry
+    \entry{monitoringbook}{online}{}
+      \field{sortinit}{Л}
+      \field{sortinithash}{408c91708504c4d55e9c1a703c852f82}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Лесовский А.В. Мониторинг PostgreSQL}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://edu.postgrespro.ru/monitoring.pdf
+      \endverb
+      \verb{url}
+      \verb https://edu.postgrespro.ru/monitoring.pdf
+      \endverb
+    \endentry
+    \entry{tcph}{online}{}
+      \field{sortinit}{Т}
+      \field{sortinithash}{f2616f6a7966d80048da61c919aeb3ae}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{title}{Тестирование TCP-H}
+      \field{urlday}{6}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.starrocks.io/docs/benchmarking/TPC-H_Benchmarking/
+      \endverb
+      \verb{url}
+      \verb https://docs.starrocks.io/docs/benchmarking/TPC-H_Benchmarking/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
